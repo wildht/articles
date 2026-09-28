@@ -25,7 +25,7 @@ title="blog"
 author = ""
 description = "wildht's blog"
 footnote = """
-Powered by hugo & LOVE
+Powered by Hugo & LOVE
 """
 customCSS = ["css/custom.css"]
 customJS = []
