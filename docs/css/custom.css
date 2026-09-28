@@ -1,0 +1,4 @@
+/* 隐藏顶栏的暗色模式切换按钮 */
+#dark-mode-toggle {
+  display: none;
+}
